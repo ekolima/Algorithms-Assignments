@@ -1,6 +1,7 @@
 # Algorithms-Assignments
 
 Assignments for Algorithms and Data Structures, undergraduate module at Athens University of Economics and Business, Department of Management Science and Technology
+Academic Year: 2019-2020
 
 ## Assignment 1
 - The questions for the 1st Assignment can be found on the following link (in Greek): https://nbviewer.jupyter.org/github/dmst-algorithms-course/assignment-2020-1/blob/master/assignment_2020_1.ipynb?flush_cache=true
